@@ -50,9 +50,9 @@ theme = "hugo-elate-theme"
     footertext = ''
 
     [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "EngageKit"
+      img = "herobg.png"
+      alt = "EngageKit"
+      title = "EngageKit - engagekit.com"
       subtitle = "Customer Engagement Platform"
 
   # Contact section
