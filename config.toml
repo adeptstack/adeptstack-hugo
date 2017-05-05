@@ -11,7 +11,7 @@ theme = "hugo-elate-theme"
   # Meta
   author = ""
   description = ""
-  email = ""
+  email = "pheyhui@gmail.com"
   # Navigation
   [params.navigation]
     brand = "AdeptStack"
@@ -39,7 +39,7 @@ theme = "hugo-elate-theme"
   
   # Hero section
   [params.hero]
-    title = "BRING NEW PERSPECTIVE"
+    title = "BRINGING NEW PERSPECTIVE"
     subtitle = 'Innovation. Delivered.'
  
   # Work section
